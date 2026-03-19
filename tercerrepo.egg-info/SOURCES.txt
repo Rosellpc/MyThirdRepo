@@ -1,7 +1,0 @@
-README.md
-setup.py
-MyThirdRepo/__init__.py
-tercerrepo.egg-info/PKG-INFO
-tercerrepo.egg-info/SOURCES.txt
-tercerrepo.egg-info/dependency_links.txt
-tercerrepo.egg-info/top_level.txt
